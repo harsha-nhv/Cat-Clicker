@@ -4,18 +4,16 @@ body{
 
 img{
     border-radius:10px; 
-    width: 100%;
+    width: 50%;
     height: 70%;
 }
 
-.image{
-    padding: 15px;
-}
-
-.body{
-    display: flex;
-}
-
-p{
+.image_section{
     text-align: center;
+    padding: 15px;
+    display: block;
+}
+
+li{
+    cursor: pointer;
 }
